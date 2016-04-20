@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-demo",
+  "version": "0.0.0",
+  "description": "react-redux-demo",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JaydenXu/react-redux-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "homepage": "git@github.com:JaydenXu/react-redux-demo.git",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-scss-lint": "^0.1.4",
+    "jshint-stylish": "^1.0.0"
+  }
+}
